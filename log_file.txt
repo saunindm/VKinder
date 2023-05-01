@@ -1,0 +1,56 @@
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-18, Time: 1.4171435832977295, Result: ('Anastasia', 'Zaykova', 'https://vk.com/id425677530', 'photo425677530_456239017,photo425677530_456260407,photo425677530_456241964')
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-18, Time: 0.19539356231689453, Result: True
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-18, Time: 0.8067855834960938, Result: ('Maria', 'Lysykh-Novikova', 'https://vk.com/id140209333', 'photo140209333_457250421,photo140209333_457250555,photo140209333_457250362')
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-18, Time: 1.7539427280426025, Result: ('Anastasia', 'Maximchuk', 'https://vk.com/id14205003', 'photo14205003_456239292,photo14205003_432013289,photo14205003_383539916')
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.08888769149780273, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.16185402870178223, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.12508630752563477, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.11661720275878906, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.09565877914428711, Result: False
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-22, Time: 1.3188178539276123, Result: ('Alexandra', 'Trufanova', 'https://vk.com/id222495050', 'photo222495050_340204696,photo222495050_347540585,photo222495050_345047798')
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.20521140098571777, Result: True
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.10309791564941406, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.11134028434753418, Result: False
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-22, Time: 0.7865869998931885, Result: ('Elvira', 'Pipkina', 'https://vk.com/id169842639', 'photo169842639_334414330,photo169842639_319752966,photo169842639_342998657')
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-22, Time: 1.172297477722168, Result: ('Anya', 'Bryulik', 'https://vk.com/id123192162', 'photo123192162_456239471')
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.19993209838867188, Result: True
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.12013363838195801, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.08216500282287598, Result: True
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.08471083641052246, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.08215951919555664, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.09015440940856934, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.10749006271362305, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.10105729103088379, Result: False
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-22, Time: 1.3779897689819336, Result: ('Svetlana', 'Stepanova', 'https://vk.com/id5974988', 'photo5974988_400569487,photo5974988_321602796,photo5974988_316219767')
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-22, Time: 0.8189337253570557, Result: ('Darianna', 'Adurova', 'https://vk.com/id23586778', 'photo23586778_335019077,photo23586778_299973586,photo23586778_456239017')
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.12446975708007812, Result: True
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.07994771003723145, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.08597707748413086, Result: True
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.17435359954833984, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.07008743286132812, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.13062047958374023, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.0779874324798584, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.09894847869873047, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.09942173957824707, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.0821988582611084, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.1085813045501709, Result: False
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-22, Time: 0.8255436420440674, Result: ('Nadezhda', 'Kalinicheva', 'https://vk.com/id368296', 'photo368296_382881638,photo368296_297597873,photo368296_325644400')
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-22, Time: 1.1654033660888672, Result: ('Elizaveta', 'Odintsova', 'https://vk.com/id234309845', 'photo234309845_440574719,photo234309845_430113620,photo234309845_456239120')
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.1001734733581543, Result: True
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-22, Time: 0.12575125694274902, Result: False
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-22, Time: 0.08526873588562012, Result: True
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-23, Time: 1.3775830268859863, Result: ('Katenka', 'Kozhurina', 'https://vk.com/id71829783', 'photo71829783_352594538,photo71829783_310423888,photo71829783_379741711')
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-23, Time: 0.19870710372924805, Result: True
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-23, Time: 1.791511058807373, Result: ('Anastasiya', 'Trapeznikova', 'https://vk.com/id9257634', 'photo9257634_305965369,photo9257634_306079787,photo9257634_293428369')
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-23, Time: 0.10645389556884766, Result: True
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-23, Time: 3.0758728981018066, Result: ('Diana', 'Zaseeva', 'https://vk.com/id3656451', 'photo3656451_302621259,photo3656451_310330442,photo3656451_327742476')
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-23, Time: 0.6062171459197998, Result: True
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-23, Time: 1.7136409282684326, Result: ('Alexandra', 'Shibina', 'https://vk.com/id5583055', 'photo5583055_379044876,photo5583055_284310562,photo5583055_298943362')
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-23, Time: 1.1076905727386475, Result: ('Lyubov', 'Balkovskaya', 'https://vk.com/id2555159', 'photo2555159_281102791,photo2555159_264579461,photo2555159_291971921')
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-23, Time: 0.17540335655212402, Result: True
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-23, Time: 0.8201432228088379, Result: ('Anzhelika', 'Glukhova', 'https://vk.com/id15741324', 'photo15741324_395616088,photo15741324_456239197,photo15741324_272299645')
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-23, Time: 0.10544133186340332, Result: True
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-24, Time: 0.8327295780181885, Result: ('Anya', 'Bryulik', 'https://vk.com/id123192162', 'photo123192162_456239471')
+--- Function name: add_user_to_db, Arguments: (7907404, False) {}, Calling date: 2023-04-24, Time: 0.11884617805480957, Result: True
+--- Function name: get_user_for_bot, Arguments: (7907404,) {}, Calling date: 2023-04-24, Time: 2.226602077484131, Result: ('Daria', 'Ruglyak', 'https://vk.com/id20210712', 'photo20210712_308245916,photo20210712_456240007')
+--- Function name: add_user_to_db, Arguments: (7907404, True) {}, Calling date: 2023-04-24, Time: 0.09489011764526367, Result: True
